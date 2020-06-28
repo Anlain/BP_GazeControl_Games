@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/MainMenu.unity
+    guid: d15d5c1f137247f4087fdfbb568e2938
+  - enabled: 1
+    path: Assets/_Scenes/EndlessRunner.unity
+    guid: 3e8ae703267e5b843b38116c88c49db0
+  - enabled: 1
+    path: Assets/_Scenes/Game_2_BaloonPopping.unity
+    guid: c14c52e95fbd0a54eb75a37fc6321bd3
+  - enabled: 1
+    path: Assets/Tobii/DemoScenes/04_FirstPersonExample.unity
+    guid: 68360e2d5b8e8d049a057159ed4f9fc6
+  - enabled: 1
+    path: Assets/_Scenes/GameOver.unity
+    guid: 9464d037feef7fa41a0524ca19502f62
+  m_configObjects: {}
